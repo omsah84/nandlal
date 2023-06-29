@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* color: white; */
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+span{
+    color: red;
+    size: 5px;
+}
+
+/* .background{
+    height: 300px;
+} */
+
